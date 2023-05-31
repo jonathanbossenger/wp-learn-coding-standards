@@ -3,6 +3,7 @@
  * Plugin Name: WP Learn Coding Standards
  * Description: A plugin to demonstrate WordPress coding standards
  * Author: Jonathan Bossenger
+ * Version: 1.0.0
  */
 
 add_action('init','wp_learn_register_custom_post_type');

@@ -1,5 +1,5 @@
 /**
- * Clear the text area button
+ * Clear a text area button
  */
 const clearPostsButton = document.getElementById('wp-learn-clear-posts');
 if (typeof(clearPostsButton) != 'undefined' && clearPostsButton != null)
